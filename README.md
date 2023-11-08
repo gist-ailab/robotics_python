@@ -2,6 +2,8 @@
 
 Robotics Mathematical modeling and theory with Python (learning through extensive numerical simulations and animations.)
 
+> 강의자료 [모두의 로보틱스](https://roadbalance_edu.teachable.com/p/5cee42/?completed_lecture=true)
+
 > Original materials from [Pranav Bhounsule's robotics lecture](https://www.youtube.com/watch?v=0dBrRF-M8mU&list=PLc7bpbeTIk7561Sg9v65uKYPa8_AJtkG9) and [Github](https://github.com/pab47/robotics) 
 
 ### Dev Env Setup
